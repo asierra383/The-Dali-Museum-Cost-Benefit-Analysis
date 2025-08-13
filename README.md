@@ -1,13 +1,13 @@
 # The Dali Museum Cost Benefit Analysis
 
-# Introduction
+## Introduction
 The purpose of this deliverable is to conduct a cost-benefit analysis on the DAM (Digital Asset Management) & Digital Preservation Systems that was researched on for my Summer 2025 internship project at The Dalí Museum. This analysis allows for the museum to understand which system vendors are most cost-effective for implementation. Most of this documentation is already provided in the Google Colab file, but I have included in here too in case a viewer of this repository would prefer to have the top-level information from this research.
 
 This deliverable used 8 staff members as the sample size to calculate the Cost-Benefit Analysis of SaaS vendors for digital asset management and digital preservation systems. In total, there are 51 users of digital assets, according to a statement given by the Systems Administrator of the IT/AV department.
 
 In order to get the Cost-Benefit Analysis, I imported Python libraries like Numpy, Pandas, & Matplotlib. They are relevant for providing the charts & graphs that are shown in the Google Colab file. Since I need to perform math & data visualizations, the following libraries were used.
 
-# Background & Context
+## Background & Context
 In order to better understand how the calculations are done, there is information that must be given.
 
 The fixed numbers given is to set a benchmark for simplified calculations:
@@ -23,7 +23,7 @@ In order to get the given prices of the system vendors, there were steps taken &
 - An initial meeting was usually conducted first in order to follow up with a product demonstration, & then pricing was discussed
 - Vendors usually asked for storage needs (hot & cold), storage type, numbers of users (concurrent and/or admin users), and needed vendor native integrations
 
-# Staff Information Calculations
+## Staff Information Calculations
 Calculations must be made to find the hourly wage of staff members to understand how much the museum spends of staff wages on the current state of digital asset workflows. This would lead to understanding what is the annual sunk cost and time.
 
 Calculation Results:
@@ -33,7 +33,7 @@ Calculation Results:
 - Total Annual Sunk Cost Yearly = $183,495
 - Left-skewed distribution​; most data points fall on the right side
 
-# System Vendor Calculations
+## System Vendor Calculations
 By applying the 80/20 Rule, a benchmark can be established for the hours and costs that can be saved on a yearly basis by implementing this type of system. With having the prices given by the system vendors, we can have an understanding for what the industry standard looks like, and therefore we can proceed to a cost benefit analysis.
 
 Calculation Results:
@@ -44,7 +44,7 @@ Calculation Results:
 - Right-skewed distribution​; most data points fall on the left side​
   - Outlier present in upper quartile
 
-# Final Calculations
+## Final Calculations
 Now we can proceed with doing the calculations for the cost benefit analysis:
 - Net Present Value = ∑ Present Value of Expected Benefits - ∑ Present Value of Future Costs
 - Cost Benefit Ratio = ∑ Present Value of Expected Benefits / ∑ Present Value of Future Costs
@@ -63,3 +63,5 @@ Top 5 Cost Effective Systems for Initial Setup Cost:
 3. Soutron Global
 4. Archivematica
 5. ResourceSpace
+
+# Thank you for reading!
