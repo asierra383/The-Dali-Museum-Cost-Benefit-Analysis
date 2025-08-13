@@ -45,10 +45,9 @@ Calculation Results:
   - Outlier present in upper quartile
 
 # Final Calculations
-Now we can proceed with doing the calculations for the cost benefit analysis.
-
-Net Present Value = ∑ Present Value of Expected Benefits - ∑ Present Value of Future Costs
-Cost Benefit Ratio = ∑ Present Value of Expected Benefits / ∑ Present Value of Future Costs
+Now we can proceed with doing the calculations for the cost benefit analysis:
+- Net Present Value = ∑ Present Value of Expected Benefits - ∑ Present Value of Future Costs
+- Cost Benefit Ratio = ∑ Present Value of Expected Benefits / ∑ Present Value of Future Costs
 
 Calculation Results:
 - Net Present Value (NPV)
