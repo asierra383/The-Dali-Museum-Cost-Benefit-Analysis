@@ -1,7 +1,7 @@
 # The Dali Museum Cost Benefit Analysis
 
 ## Introduction
-The purpose of this deliverable is to conduct a cost-benefit analysis on the DAM (Digital Asset Management) & Digital Preservation Systems that was researched on for my Summer 2025 internship project at The Dalí Museum. This analysis allows for the museum to understand which system vendors are most cost-effective for implementation. Most of this documentation is already provided in the Google Colab file, but I have included in here too in case a viewer of this repository would prefer to have the top-level information from this research.
+The purpose of this deliverable is to conduct a cost-benefit analysis on the DAM (Digital Asset Management) & Digital Preservation Systems that was researched on for my Summer 2025 internship project at The Dalí Museum. This analysis allows for the museum to understand which system vendors are most cost-effective for implementation. The calculations & visualizations are already provided in the Google Colab file, but I have included the calculation results in here in case a viewer of this repository would prefer to have the top-level information from this research.
 
 This deliverable used 8 staff members as the sample size to calculate the Cost-Benefit Analysis of SaaS vendors for digital asset management and digital preservation systems. In total, there are 51 users of digital assets, according to a statement given by the Systems Administrator of the IT/AV department.
 
