@@ -51,10 +51,12 @@ Now we can proceed with doing the calculations for the cost benefit analysis:
 
 Calculation Results:
 - Net Present Value (NPV)
+  - Minimum/Maximum Range: [$95,882, $133,164]
   - Average Net Present Value = $123,183.35
   - Left-skewed distribution; most data points fall on the right side
     - Outlier present in lower quartile
 - Cost Benefit Value (CBV)
+  - Minimum/Maximum Range: [2.88, 10.77]
   - Average Cost Benefit Ratio = 6.68
   - Right-skewed distribution; most data points fall on the left side
     - Outlier present in upper quartile
