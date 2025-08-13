@@ -57,7 +57,7 @@ Calculation Results:
   - Average Cost Benefit Ratio = 6.68
   - Right-skewed distribution; most data points fall on the left side
 
-Top 5 Cost Effective Systems for Initial Setup Cost:
+## Top 5 Cost-Effective Systems for Initial Setup Cost:
 1. Pics.io
 2. Piction
 3. Soutron Global
