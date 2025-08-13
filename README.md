@@ -23,6 +23,8 @@ In order to get the given prices of the system vendors, there were steps taken &
 - An initial meeting was usually conducted first in order to follow up with a product demonstration, & then pricing was discussed
 - Vendors usually asked for storage needs (hot & cold), storage type, numbers of users (concurrent and/or admin users), and needed vendor native integrations
 
+Finally, please keep in mind that Initial Setup Cost & Total Start Cost mean the same thing if you are also referencing the System Evaluation Matrix & Feature Comparison Chart spreadsheets.
+
 ## Staff Information Calculations
 Calculations must be made to find the hourly wage of staff members to understand how much the museum spends of staff wages on the current state of digital asset workflows. This would lead to understanding what is the annual sunk cost and time.
 
