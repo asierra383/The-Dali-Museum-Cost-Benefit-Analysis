@@ -28,19 +28,19 @@ Calculations must be made to find the hourly wage of staff members to understand
 
 Calculation Results:
 - Average Annual Sunk Hours Yearly = 645
-- Average Annual Sunk Cost Yearly = $22,936.87
-- Total Annual Sunk Hours Yearly = 5,160
-- Total Annual Sunk Cost Yearly = $183,495
+- Average Annual Sunk Cost Yearly = $22936.87
+- Total Annual Sunk Hours Yearly = 5160
+- Total Annual Sunk Cost Yearly = $183495
 - Left-skewed distribution​; most data points fall on the right side
 
 ## System Vendor Calculations
 By applying the 80/20 Rule, a benchmark can be established for the hours and costs that can be saved on a yearly basis by implementing this type of system. With having the prices given by the system vendors, we can have an understanding for what the industry standard looks like, and therefore we can proceed to a cost benefit analysis.
 
 Calculation Results:
-- Total Annual Hours Saved Yearly = 4,128
-- Total Annual Savings Yearly = $146,796
-- Average System Annual Cost = $23,612.64
-- Average System Initial Setup Cost = $29,171.38
+- Total Annual Hours Saved Yearly = 4128
+- Total Annual Savings Yearly = $146796
+- Average System Annual Cost = $23612.64
+- Average System Initial Setup Cost = $29171.38
 - Right-skewed distribution​; most data points fall on the left side​
   - Outlier present in upper quartile
 
@@ -51,8 +51,8 @@ Now we can proceed with doing the calculations for the cost benefit analysis:
 
 Calculation Results:
 - Net Present Value (NPV)
-  - Minimum/Maximum Range: [$95,882, $133,164]
-  - Average Net Present Value = $123,183.35
+  - Minimum/Maximum Range: [$95882, $133164]
+  - Average Net Present Value = $123183.35
   - Left-skewed distribution; most data points fall on the right side
     - Outlier present in lower quartile
 - Cost Benefit Value (CBV)
