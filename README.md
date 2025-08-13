@@ -17,7 +17,7 @@ The fixed numbers given is to set a benchmark for simplified calculations:
 
 There is 2 types of staff information that was collected differently in order to use them in the calculations with the fixed numbers
 - The number of sunks hours was collected based on the total number of passing hours from 5 given scenarios that are provided on [Canto's DAM ROI calculator](https://www.canto.com/dam-roi/)
-- Salaries were given based on the Association of Art Museum Directors (AAMD) 2023 Salary Survey report, specifically, the mean salary of the Southeast region was used
+- Salaries were given based on the [Association of Art Museum Directors (AAMD) 2023 Salary Survey](https://thedali-my.sharepoint.com/my?id=%2Fpersonal%2Fasierra%5Fthedali%5Fonmicrosoft%5Fcom%2FDocuments%2FAttachments%2FAAMD%5FSalary%20Survey%202023%2Epdf&parent=%2Fpersonal%2Fasierra%5Fthedali%5Fonmicrosoft%5Fcom%2FDocuments%2FAttachments&ga=1) report, specifically, the mean salary of the Southeast region was used
 
 In order to get the given prices of the system vendors, there were steps taken & vendors also needed certain information to give a quote
 - An initial meeting was usually conducted first in order to follow up with a product demonstration, & then pricing was discussed
