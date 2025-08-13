@@ -53,9 +53,11 @@ Calculation Results:
 - Net Present Value (NPV)
   - Average Net Present Value = $123,183.35
   - Left-skewed distribution; most data points fall on the right side
+    - Outlier present in lower quartile
 - Cost Benefit Value (CBV)
   - Average Cost Benefit Ratio = 6.68
   - Right-skewed distribution; most data points fall on the left side
+    - Outlier present in upper quartile
 
 ## Top 5 Cost-Effective Systems for Initial Setup Cost:
 1. Pics.io
