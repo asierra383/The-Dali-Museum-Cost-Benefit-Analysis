@@ -22,6 +22,8 @@ There is 2 types of staff information that was collected differently in order to
 In order to get the given prices of the system vendors, there were steps taken & vendors also needed certain information to give a quote
 - An initial meeting was usually conducted first in order to follow up with a product demonstration, & then pricing was discussed
 - Vendors usually asked for storage needs (hot & cold), storage type, numbers of users (concurrent and/or admin users), & needed vendor native integrations
+  - Vendor integrations through their APIs were not included in the cost-benefit analysis due to project constraints since I could not receive all of those figures & have them added before the end of the project timeline
+  - Terentia &  Filecamp are exceptions because Terentia did include integrations into the quote, while Filecamp has no public API to allow integrations at this point
 
 Finally, please keep in mind that Initial Setup Cost & Total Start Cost mean the same thing if you are also referencing the System Evaluation Matrix & Feature Comparison Chart spreadsheets.
 
