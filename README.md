@@ -26,7 +26,9 @@ In order to get the given prices of the system vendors, there were steps taken &
 ## Staff Information Calculations
 Calculations must be made to find the hourly wage of staff members to understand how much the museum spends of staff wages on the current state of digital asset workflows. This would lead to understanding what is the annual sunk cost and time.
 
+---
 Calculation Results:
+---
 - Average Annual Sunk Hours Yearly = 645
 - Average Annual Sunk Cost Yearly = $22,936.87
 - Total Annual Sunk Hours Yearly = 5,160
