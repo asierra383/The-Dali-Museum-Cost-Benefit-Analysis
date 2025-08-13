@@ -16,7 +16,7 @@ The fixed numbers given is to set a benchmark for simplified calculations:
 - When comparing sunk hours & cost with system savings, I applied the Pareto Principle, also called the 80/20 Rule, to state that there would be an 80% in time and wage savings from a system implementation
 
 There is 2 types of staff information that was collected differently in order to use them in the calculations with the fixed numbers
-- The number of sunks hours was collected based on the total number of passing hours from 5 given scenarios that are provided on Canto's DAM ROI calculator
+- The number of sunks hours was collected based on the total number of passing hours from 5 given scenarios that are provided on [Canto's DAM ROI calculator] (https://colab.research.google.com/drive/1PJtFO3uGkFZIc1U5PlcglkU_3cqT0FQc#scrollTo=8XtcOZPoi1AC:~:text=Canto%27s%20DAM%20ROI%20calculator)
 - Salaries were given based on the Association of Art Museum Directors (AAMD) 2023 Salary Survey report, specifically, the mean salary of the Southeast region was used
 
 In order to get the given prices of the system vendors, there were steps taken & vendors also needed certain information to give a quote
@@ -26,9 +26,7 @@ In order to get the given prices of the system vendors, there were steps taken &
 ## Staff Information Calculations
 Calculations must be made to find the hourly wage of staff members to understand how much the museum spends of staff wages on the current state of digital asset workflows. This would lead to understanding what is the annual sunk cost and time.
 
----
 Calculation Results:
----
 - Average Annual Sunk Hours Yearly = 645
 - Average Annual Sunk Cost Yearly = $22,936.87
 - Total Annual Sunk Hours Yearly = 5,160
